@@ -3,7 +3,7 @@ Repository related to webcrawling and webscraping using R
 
 ##Scripts
 
-<<<<<<< HEAD
+
 The ```Rcrawler.R``` script was based on this [Rcrawler article on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352711017300110 "Rcrawler article on ScienceDirect")
 
 
