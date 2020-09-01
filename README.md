@@ -9,3 +9,5 @@ The ```Rcrawler.R``` script was based on this [Rcrawler article on ScienceDirect
 
 The ```Polite.R``` script was based on 
 [Polite Web Scrapping in R-Bloggers](https://www.r-bloggers.com/intro-to-polite-web-scraping-of-soccer-data-with-r/ "Polite Web Scrapping in R-Bloggers")
+
+The ```nota_fiscal.R``` script (in Portuguese) searchs into a receit and organizes all the items in to a dataframe.

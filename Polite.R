@@ -32,6 +32,4 @@ final_standings$GoalDifference <- final_standings$GoalsFor-final_standings$Goals
 
 View(final_standings)
 
-
-
-                              
+                      
